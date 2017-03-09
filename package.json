@@ -18,10 +18,13 @@
     "angular": "^1.6.3",
     "angular-route": "^1.6.3",
     "angular-touch": "^1.6.3",
+    "bootstrap-less": "^3.3.8",
     "bootstrap-sass": "^3.3.7",
     "connect": "^3.6.0",
     "d3": "^4.7.1",
     "firebase": "^3.7.0",
+    "font-awesome": "^4.7.0",
+    "grunt-prettify": "^0.4.0",
     "jquery": "^3.1.1",
     "server-static": "^1.8.0"
   }
